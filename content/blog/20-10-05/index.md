@@ -23,4 +23,6 @@ To be honest, I don't think anyone would read whatever I have to share. There ar
 
 When I first started, I want to focus on writing content. I could have written on Medium or some other platform, but then I prefer a safe/personal space for me to write. However, I have a lot of issues regarding speed and stability. Imagine the admin portal keeps loading when you want to write something. It kinda hurt the experience. Granted, I sign up the cheapest plan, also there are configurations that can be done (which I did, like caching) to optimize it. Still, it can be distracting.
 
+## End Note
+
 I have heard of Gatsby for a long time, but never have an opportunity to actually try it. I guess this is the perfect time to do it! Hopefully I can be more consistent this time. I still have much to learn, hopefully one day I can become the teacher.

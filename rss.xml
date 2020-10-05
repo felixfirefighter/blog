@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blue Leaf]]></title><description><![CDATA[My Personal Blog]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 05 Oct 2020 16:51:06 GMT</lastBuildDate><item><title><![CDATA[First Post?]]></title><description><![CDATA[I used to have a blog, well technically I still have it as of today. It is setup with Wordpress powered by Bluehost. It was okay for a while…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/20-10-05/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/20-10-05/</guid><pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/b5ec18f0d630fafc122a94a9728cbb08/4b319/blue.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAHg1GIhF//EABYQAQEBAAAAAAAAAAAAAAAAAAEAIP/aAAgBAQABBQKTP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPwGhf//EABYQAAMAAAAAAAAAAAAAAAAAAAAgIf/aAAgBAQAGPwIi/wD/xAAaEAACAgMAAAAAAAAAAAAAAAABEQAQMUGh/9oACAEBAAE/IQtiBz1Tjr//2gAMAwEAAgADAAAAEJ/P/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQEQ/9oACAEDAQE/ECuf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhEf/aAAgBAgEBPxCGNEP/xAAZEAEBAQADAAAAAAAAAAAAAAABEQAhMUH/2gAIAQEAAT8QmahFUcS8mER9OtVty1u//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Image by Makoto Tsuka (https://unsplash.com/@mcovoy)&quot;
+        title=&quot;Image by Makoto Tsuka (https://unsplash.com/@mcovoy)&quot;
+        src=&quot;/blog/static/b5ec18f0d630fafc122a94a9728cbb08/828fb/blue.jpg&quot;
+        srcset=&quot;/blog/static/b5ec18f0d630fafc122a94a9728cbb08/ff44c/blue.jpg 158w,
+/blog/static/b5ec18f0d630fafc122a94a9728cbb08/a6688/blue.jpg 315w,
+/blog/static/b5ec18f0d630fafc122a94a9728cbb08/828fb/blue.jpg 630w,
+/blog/static/b5ec18f0d630fafc122a94a9728cbb08/0ede0/blue.jpg 945w,
+/blog/static/b5ec18f0d630fafc122a94a9728cbb08/3ac88/blue.jpg 1260w,
+/blog/static/b5ec18f0d630fafc122a94a9728cbb08/4b319/blue.jpg 5472w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I used to have a blog, well technically I still have it as of today. It is setup with Wordpress powered by Bluehost. It was okay for a while. I wasn’t quite consistent with the content, post some answers on LeetCode, share some notes on books that I have read etc. It may seem weird that I am writing another blog now. If I want to write it, why not use the one I already have, considering the server and domain name have been paid. Maybe I start with why I started writing blog in the first place.&lt;/p&gt;
+&lt;h2&gt;Why&lt;/h2&gt;
+&lt;h3&gt;Learn&lt;/h3&gt;
+&lt;p&gt;Time and time again, one thing keeps coming up whenever I learn something, whether from books/blogs/videos, the best way to learn is to teach. It is something I couldn’t agree more. Not only it acts as a revision for yourself on the subject, it also challenges your understanding. If you want to teach someone something, you have to understand the subject really well. I feel that my learning has not been truly effective. Blogging may help to reinforce what I have learned.&lt;/p&gt;
+&lt;p&gt;I just finished a course called “Start Learning Software Architecture From Zero” by Lee YunHua(You can find the course on Geekbang &lt;a href=&quot;https://time.geekbang.org/column/intro/81&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;). He mentioned the same thing as well at the end of the lesson. So it is also a catalyst to my blog reborn.&lt;/p&gt;
+&lt;h3&gt;Share&lt;/h3&gt;
+&lt;p&gt;To be honest, I don’t think anyone would read whatever I have to share. There are plenty of amazing resources out there, free for everyone. By a slim chance that they want to, I don’t think they can find it in the first place. Still, there is a part of me wanting to share. It’s kind of hard to explain, but if I can even just help a few people in some way, my blog would have served its purpose.&lt;/p&gt;
+&lt;h2&gt;Why Migrate&lt;/h2&gt;
+&lt;p&gt;When I first started, I want to focus on writing content. I could have written on Medium or some other platform, but then I prefer a safe/personal space for me to write. However, I have a lot of issues regarding speed and stability. Imagine the admin portal keeps loading when you want to write something. It kinda hurt the experience. Granted, I sign up the cheapest plan, also there are configurations that can be done (which I did, like caching) to optimize it. Still, it can be distracting.&lt;/p&gt;
+&lt;p&gt;I have heard of Gatsby for a long time, but never have an opportunity to actually try it. I guess this is the perfect time to do it! Hopefully I can be more consistent this time. I still have much to learn, hopefully one day I can become the teacher.&lt;/p&gt;</content:encoded></item></channel></rss>

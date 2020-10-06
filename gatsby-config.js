@@ -1,3 +1,5 @@
+const path = require('path');
+
 module.exports = {
   pathPrefix: "/blog",
   siteMetadata: {
@@ -34,7 +36,10 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 630,
+              maxWidth: 1920,
+              showCaptions: true,
+              markdownCaptions: true,
+              srcSetBreakpoints: []
             },
           },
           {
@@ -47,7 +52,17 @@ module.exports = {
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
           `gatsby-remark-external-links`,
-          `gatsby-remark-figure-caption`
+          {
+            resolve: `gatsby-remark-vscode`,
+            options: {
+              colorTheme: 'Dark+ (default dark)',
+              injectStyles: true,
+              extensions: [],
+              extensionDataDirectory:
+                path.resolve('extensions'),
+              logLevel: 'error'
+            }
+          }
         ],
       },
     },
@@ -72,7 +87,19 @@ module.exports = {
         icon: `content/assets/favicon.png`,
       },
     },
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Nunito`,
+            variants: [`300`,`400`,`600`,`700`],
+          },
+        ],
+      },
+    },
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sass`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

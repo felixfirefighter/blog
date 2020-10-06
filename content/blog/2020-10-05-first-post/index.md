@@ -3,7 +3,7 @@ title: First Post?
 date: "2020-10-05T00:00:00Z"
 ---
 
-![Image by Makoto Tsuka (https://unsplash.com/@mcovoy)](./blue.jpg)
+![Blue Leaf](./blue.jpg "Photo by [Fabrizio](https://unsplash.com/@staticlaw) on [Unplash](https://unsplash.com/photos/kXVogATbFgA)")
 
 I used to have a blog, well technically I still have it as of today. It is setup with Wordpress powered by Bluehost. It was okay for a while. I wasn't quite consistent with the content, post some answers on LeetCode, share some notes on books that I have read etc. It may seem weird that I am writing another blog now. If I want to write it, why not use the one I already have, considering the server and domain name have been paid. Maybe I start with why I started writing blog in the first place.
 

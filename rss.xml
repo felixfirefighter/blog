@@ -1,4 +1,976 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blue Leaf]]></title><description><![CDATA[My Personal Blog]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 06 Oct 2020 15:50:53 GMT</lastBuildDate><item><title><![CDATA[Pass It In Or Return It?]]></title><description><![CDATA[Today as I am refactoring a Vue codebase, I come across something like this: The goal here is to convert all the objects to arrays. We can…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/2020-10-06-pass-it-in-or-return-it/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/2020-10-06-pass-it-in-or-return-it/</guid><pubDate>Tue, 06 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today as I am refactoring a Vue codebase, I come across something like this:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blue Leaf]]></title><description><![CDATA[My Personal Blog]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 08 Oct 2020 15:13:29 GMT</lastBuildDate><item><title><![CDATA[Software Engineering Learning Websites (Chinese)]]></title><description><![CDATA[Note: The following post only shares websites that are in Chinese. If you want to know those in English, feel free to drop me a message, I…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/2020-10-08-learning-websites-chinese/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/2020-10-08-learning-websites-chinese/</guid><pubDate>Thu, 08 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1920px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/69b26c46be50c9a6228a89503632cea9/0f98f/love-to-learn.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAACAP/aAAwDAQACEAMQAAABlq3Gwy0M/wD/xAAbEAACAgMBAAAAAAAAAAAAAAABAgAhAxESE//aAAgBAQABBQJVXfmpBW8cLcxjf//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8BRWy//8QAGxAAAgMAAwAAAAAAAAAAAAAAAAECESEQQXH/2gAIAQEABj8CpxTK2PjOyzFx/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFRQf/aAAgBAQABPyGpg10KMSmD/QeuuQRSWjnP/9oADAMBAAIAAwAAABCzD//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAIAQMBAT8QAHLV/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAgBAgEBPxBZeEn/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMWFRkf/aAAgBAQABPxBYBCLy+xgZNOg71L206vYVSq4LxUF9Ld3AXjP/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Love To Learn&quot;
+        title=&quot;Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unplash](https://unsplash.com/photos/WE_Kv_ZB1l0)&quot;
+        src=&quot;/blog/static/69b26c46be50c9a6228a89503632cea9/0f98f/love-to-learn.jpg&quot;
+        srcset=&quot;/blog/static/69b26c46be50c9a6228a89503632cea9/7cc5e/love-to-learn.jpg 480w,
+/blog/static/69b26c46be50c9a6228a89503632cea9/6a068/love-to-learn.jpg 960w,
+/blog/static/69b26c46be50c9a6228a89503632cea9/0f98f/love-to-learn.jpg 1920w&quot;
+        sizes=&quot;(max-width: 1920px) 100vw, 1920px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@timmossholder&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Tim Mossholder&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/photos/WE_Kv_ZB1l0&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Unplash&lt;/a&gt;&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note: The following post only shares websites that are in Chinese. If you want to know those in English, feel free to drop me a message, I am more than happy to share some with you!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My new employer provides us a learning budget every year. I was looking for a good learning websites to put the budget into good use. Here are some that my colleagues share with me, and now I am here to share it with you.&lt;/p&gt;
+&lt;h3&gt;1. Geekbang&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://time.geekbang.org/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://time.geekbang.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;If you want to learn specific topics from professionals in the industry, look no further&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Want to learn from ex-Googler, ex-Alibaba architect or the like? Well you’re in luck. The lessons are usually instructed by actual professionals in the industry. &lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1223px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/4ed9f24175209119941995e525032a06/bab51/geekbang-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 78.95833333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd2GEjD/xAAYEAEBAQEBAAAAAAAAAAAAAAABAhEAA//aAAgBAQABBQLrUnzqmTdo0iST/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxABAQACAwEAAAAAAAAAAAAAAQARIQIiMWH/2gAIAQEABj8Cs8QW7APxndj20Yv/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEhMVFB/9oACAEBAAE/IYnAPFqWLiLIsobxLtAOSkiLn//aAAwDAQACAAMAAAAQkO//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAgEBPxBH/8QAHRABAAMAAQUAAAAAAAAAAAAAAQARIYExQVFhkf/aAAgBAQABPxBzCvkoMFRi75mn40JOYoKBUHYo65AWwctj5qtQrfuf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Geekbang 1&quot;
+        title=&quot;The first course is taught by ex-Googler&quot;
+        src=&quot;/blog/static/4ed9f24175209119941995e525032a06/bab51/geekbang-1.jpg&quot;
+        srcset=&quot;/blog/static/4ed9f24175209119941995e525032a06/7cc5e/geekbang-1.jpg 480w,
+/blog/static/4ed9f24175209119941995e525032a06/6a068/geekbang-1.jpg 960w,
+/blog/static/4ed9f24175209119941995e525032a06/bab51/geekbang-1.jpg 1223w&quot;
+        sizes=&quot;(max-width: 1223px) 100vw, 1223px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;The first course is taught by ex-Googler&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;The courses are usually in audio and text (both together). You can learn by just listening to the audio if you want, but usually the instructor would share images or code in the text, so it may be better to listen and read the text at the same time.&lt;/p&gt;
+&lt;p&gt;If you are not sure whether it is suitable for you, you get to watch any 4 free lessons for free, each course!&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1264px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/7843bda2ec0ae56de7599f99a243e18f/1a4ae/geekbang-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 76.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHeVNhQ4P/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMRITH/2gAIAQEAAQUClmhKmJUensUZP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAABAiEQQRFhcf/aAAgBAQAGPwIfDSfZcovwd7xo/8QAGxAAAwADAQEAAAAAAAAAAAAAAAERMVFxIbH/2gAIAQEAAT8hGdbxiU7m5xNo/gSGvH1EUicR/9oADAMBAAIAAwAAABBQL//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAECAQE/EEf/xAAaEAEAAwEBAQAAAAAAAAAAAAABABExIUFR/9oACAEBAAE/EEb4sFIqolHfQlfHogmDnYt/IK+DmxhMMgD6l1UT/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Geekbang 2&quot;
+        title=&quot;Any 4 free lessons after login&quot;
+        src=&quot;/blog/static/7843bda2ec0ae56de7599f99a243e18f/1a4ae/geekbang-2.jpg&quot;
+        srcset=&quot;/blog/static/7843bda2ec0ae56de7599f99a243e18f/7cc5e/geekbang-2.jpg 480w,
+/blog/static/7843bda2ec0ae56de7599f99a243e18f/6a068/geekbang-2.jpg 960w,
+/blog/static/7843bda2ec0ae56de7599f99a243e18f/1a4ae/geekbang-2.jpg 1264w&quot;
+        sizes=&quot;(max-width: 1264px) 100vw, 1264px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Any 4 free lessons after login&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Personally I have enrolled in the &lt;a href=&quot;https://time.geekbang.org/column/intro/100006601&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;“Learn Software Achitecture From Zero”&lt;/a&gt; and I love it. The instructor dives deep into the topic and there are 60 lessons. You can also see him replying students’ comments as well.&lt;/p&gt;
+&lt;p&gt;I also listened to &lt;a href=&quot;https://time.geekbang.org/column/intro/100023201&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;“Relearn Frontend”&lt;/a&gt;. Within that 4 lessons, I already learned something new that I had never heard before, like &lt;code class=&quot;language-text&quot;&gt;Symbol&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;getOwnPropertyDescriptor&lt;/code&gt; and so on. I admit I am not the smartest frontend engineer out there!&lt;/p&gt;
+&lt;p&gt;If you want to take your knowledge to the next level, be sure to check Geekbang out.&lt;/p&gt;
+&lt;h3&gt;2. IMOOC&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.imooc.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.imooc.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Disclaimer: I have never enrolled any course on this site before, but there is a course that makes me want to share it.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;First, let’s us take a look at the a screenshoot from this &lt;a href=&quot;https://class.imooc.com/sale/webfullstack?mc_marking=1eb5ce0be2ada8da4a6387b391f00b92&amp;#x26;mc_channel=syzcjj1&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1214px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/65dd6bb54cd8a7c19718e923830c1096/43bc5/imooc-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 79.375%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB2lYpWSE//8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERECL/2gAIAQEAAQUCiORIhM//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGn/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABsQAAICAwEAAAAAAAAAAAAAAAERACEQQVHB/9oACAEBAAE/ISOyO7iR6rcAGuw2B9iNgB9x/9oADAMBAAIAAwAAABC//wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAEDAQE/EK1lZ//EABcRAQADAAAAAAAAAAAAAAAAAAABEXH/2gAIAQIBAT8QwqH/xAAaEAEBAQEBAQEAAAAAAAAAAAABEQAhMUGR/9oACAEBAAE/EBGAOmuZEtK4ax4EqfcTYkvkH5i0BhfpwTzm/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;IMOOC 2&quot;
+        title=&quot;Big Frontend&quot;
+        src=&quot;/blog/static/65dd6bb54cd8a7c19718e923830c1096/43bc5/imooc-1.jpg&quot;
+        srcset=&quot;/blog/static/65dd6bb54cd8a7c19718e923830c1096/7cc5e/imooc-1.jpg 480w,
+/blog/static/65dd6bb54cd8a7c19718e923830c1096/6a068/imooc-1.jpg 960w,
+/blog/static/65dd6bb54cd8a7c19718e923830c1096/43bc5/imooc-1.jpg 1214w&quot;
+        sizes=&quot;(max-width: 1214px) 100vw, 1214px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Big Frontend&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Frontend, backend, testing, deployment, it got it all. It also covers mini program as well. It covers topics like Redis and logging which are something you don’t usually see. The course covers a lot of different topics and it is always a nice thing to see. &lt;/p&gt;
+&lt;p&gt;This course(not this website overall) is the opposite of what we see on Geekbang. This course covers a lot, but it doesn’t dive deep into it, it’s more like knowing how everything works together.&lt;/p&gt;
+&lt;p&gt;It definitely looks interesting, if you are the student of the course, I want to know more from you!&lt;/p&gt;
+&lt;h3&gt;3. Bilibili&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.bilibili.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Youtube, but with more&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No, we are not here to binge watching some videos here like we binge watching Youtube. We are here for the good stuff.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Want to learn about Golang? No problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1039px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/e9de65ac35727569d9733e23e399a23d/dad04/bilibili-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 86.04166666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAfZ4bI7iRNmLUH//xAAaEAADAQADAAAAAAAAAAAAAAAAAQIREBMh/9oACAEBAAEFAneHbLNPSdolPiRH/8QAFhEBAQEAAAAAAAAAAAAAAAAAASAh/9oACAEDAQE/AcSP/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHxAAAAUEAwAAAAAAAAAAAAAAABARITICAzFBUYGR/9oACAEBAAY/AnGKvCnsNeV+BNS7L//EABwQAAICAwEBAAAAAAAAAAAAAAARASExQVHBEP/aAAgBAQABPyGNbOZVQLrYsvjLwJcZZBG5W4R6YDY//9oADAMBAAIAAwAAABAkPzz/xAAaEQABBQEAAAAAAAAAAAAAAAABABARITFR/9oACAEDAQE/EBQwqTx//8QAGREAAgMBAAAAAAAAAAAAAAAAAREAECFR/9oACAECAQE/EC3kQ7f/xAAeEAACAwABBQAAAAAAAAAAAAABEQAhMUFRYXGRsf/aAAgBAQABPxAEsyLZuBkUaiK4GehFXK4jC+IUL+EfUCPogqF2nOdIz5T/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bilibili 1&quot;
+        title=&quot;Bilibili 1&quot;
+        src=&quot;/blog/static/e9de65ac35727569d9733e23e399a23d/dad04/bilibili-1.jpg&quot;
+        srcset=&quot;/blog/static/e9de65ac35727569d9733e23e399a23d/7cc5e/bilibili-1.jpg 480w,
+/blog/static/e9de65ac35727569d9733e23e399a23d/6a068/bilibili-1.jpg 960w,
+/blog/static/e9de65ac35727569d9733e23e399a23d/dad04/bilibili-1.jpg 1039w&quot;
+        sizes=&quot;(max-width: 1039px) 100vw, 1039px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Bilibili 1&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Vue 3 is out, where can I learn? Welcome my boy.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1066px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/368715da3c52faafef68f4c8a2e029b6/f8402/bilibili-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 87.08333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAfVuzymhyLAsg//EAB0QAAECBwAAAAAAAAAAAAAAAAIAAQMQEhMhMkH/2gAIAQEAAQUCvIiZCVTdJ8w9Z//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EACAQAAAFAwUAAAAAAAAAAAAAAAABAhExECAhIjIzUXH/2gAIAQEABj8C2qloo+RyKnoFrUJM/bP/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMRBRcYH/2gAIAQEAAT8hpi7YQUIvhCqA9KhnpwEGjOg3PtdidcGp/9oADAMBAAIAAwAAABAH2AD/xAAYEQEAAwEAAAAAAAAAAAAAAAABABARMf/aAAgBAwEBPxBHIcv/xAAYEQEAAwEAAAAAAAAAAAAAAAABABARIf/aAAgBAgEBPxDReMb/AP/EAB0QAQADAAIDAQAAAAAAAAAAAAEAETEhYUFRcfD/2gAIAQEAAT8Q5wtYOr9/O4hZ7xY0kciLqrkSp7Mw9ZkY1tBb0bx+GK07GBOow+Psyn//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bilibili 2&quot;
+        title=&quot;Bilibili 2&quot;
+        src=&quot;/blog/static/368715da3c52faafef68f4c8a2e029b6/f8402/bilibili-2.jpg&quot;
+        srcset=&quot;/blog/static/368715da3c52faafef68f4c8a2e029b6/7cc5e/bilibili-2.jpg 480w,
+/blog/static/368715da3c52faafef68f4c8a2e029b6/6a068/bilibili-2.jpg 960w,
+/blog/static/368715da3c52faafef68f4c8a2e029b6/f8402/bilibili-2.jpg 1066w&quot;
+        sizes=&quot;(max-width: 1066px) 100vw, 1066px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Bilibili 2&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Looking for videos on algorithm? Here they are&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1028px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/32ec26a335bd2fb6cde5c152fb5d51e0/ea522/bilibili-3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 88.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAAAAMBAgQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAfT6JC6YpgjYV//EABwQAAIBBQEAAAAAAAAAAAAAAAABEQIQEhMhIv/aAAgBAQABBQLeipok9GaO2hEH/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHhAAAAQHAAAAAAAAAAAAAAAAABAxMgECITNBUZL/2gAIAQEABj8CbPyKlczoPgocSF//xAAdEAEAAgIDAQEAAAAAAAAAAAABABEhUTFBYZGh/9oACAEBAAE/IRvBqBGCnhAu4Au7/hA1vUxxO+PyUang51APRP/aAAwDAQACAAMAAAAQAODA/8QAGBEAAgMAAAAAAAAAAAAAAAAAARARMUH/2gAIAQMBAT8QgnEKX//EABcRAQADAAAAAAAAAAAAAAAAABEBIDH/2gAIAQIBAT8QY1p//8QAHxABAAIBAwUAAAAAAAAAAAAAAQARITFRkUFhcaGx/9oACAEBAAE/EC23VdPnx3i4FNJZUAsR0pISzOVpw2x9i4waB4IAQlnSmJclhztPctECtZ3Sf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Bilibili 3&quot;
+        title=&quot;Bilibili 3&quot;
+        src=&quot;/blog/static/32ec26a335bd2fb6cde5c152fb5d51e0/ea522/bilibili-3.jpg&quot;
+        srcset=&quot;/blog/static/32ec26a335bd2fb6cde5c152fb5d51e0/7cc5e/bilibili-3.jpg 480w,
+/blog/static/32ec26a335bd2fb6cde5c152fb5d51e0/6a068/bilibili-3.jpg 960w,
+/blog/static/32ec26a335bd2fb6cde5c152fb5d51e0/ea522/bilibili-3.jpg 1028w&quot;
+        sizes=&quot;(max-width: 1028px) 100vw, 1028px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;&lt;p&gt;Bilibili 3&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Basically, Chinese Youtube on steroid. Currently I am learning &lt;a href=&quot;https://www.bilibili.com/video/BV1GW411Q77S?from=search&amp;#x26;seid=18292995973430982029&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;“Algorithm: LeetCode Practice”&lt;/a&gt; and &lt;a href=&quot;https://www.bilibili.com/video/BV16E411H7og?from=search&amp;#x26;seid=14089227711144343796&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;“Golang Study Guide: Learn Golang in 21 Weeks”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I have heard of Bilibili for a long time from a friend, but I thought it is entertainment only kind of website. I am happy to learn that I am wrong!&lt;/p&gt;
+&lt;h2&gt;End Note&lt;/h2&gt;
+&lt;p&gt;That’s it! These are the sites that I heard about from my colleagues. Where do you usually learn? Do you have a preference? Be sure to drop a message!&lt;/p&gt;
+&lt;style class=&quot;grvsc-styles&quot;&gt;
+  .grvsc-container {
+    overflow: auto;
+    position: relative;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 1rem;
+    padding-top: var(--grvsc-padding-top, var(--grvsc-padding-v, 1rem));
+    padding-bottom: 1rem;
+    padding-bottom: var(--grvsc-padding-bottom, var(--grvsc-padding-v, 1rem));
+    border-radius: 8px;
+    border-radius: var(--grvsc-border-radius, 8px);
+    font-feature-settings: normal;
+    line-height: 1.4;
+  }
+  
+  .grvsc-code {
+    display: table;
+  }
+  
+  .grvsc-line {
+    display: table-row;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+  }
+  
+  .grvsc-line &gt; * {
+    position: relative;
+  }
+  
+  .grvsc-gutter-pad {
+    display: table-cell;
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  .grvsc-gutter {
+    display: table-cell;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter::before {
+    content: attr(data-content);
+  }
+  
+  .grvsc-source {
+    display: table-cell;
+    padding-left: 1.5rem;
+    padding-left: var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem));
+    padding-right: 1.5rem;
+    padding-right: var(--grvsc-padding-right, var(--grvsc-padding-h, 1.5rem));
+  }
+  
+  .grvsc-source:empty::after {
+    content: &apos; &apos;;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
+  .grvsc-gutter + .grvsc-source {
+    padding-left: 0.75rem;
+    padding-left: calc(var(--grvsc-padding-left, var(--grvsc-padding-h, 1.5rem)) / 2);
+  }
+  
+  /* Line transformer styles */
+  
+  .grvsc-has-line-highlighting &gt; .grvsc-code &gt; .grvsc-line::before {
+    content: &apos; &apos;;
+    position: absolute;
+    width: 100%;
+  }
+  
+  .grvsc-line-diff-add::before {
+    background-color: var(--grvsc-line-diff-add-background-color, rgba(0, 255, 60, 0.2));
+  }
+  
+  .grvsc-line-diff-del::before {
+    background-color: var(--grvsc-line-diff-del-background-color, rgba(255, 0, 20, 0.2));
+  }
+  
+  .grvsc-line-number {
+    padding: 0 2px;
+    text-align: right;
+    opacity: 0.7;
+  }
+  
+&lt;/style&gt;</content:encoded></item><item><title><![CDATA[Pass It In Or Return It?]]></title><description><![CDATA[Today as I am refactoring a Vue codebase, I come across something like this: The goal here is to convert all the objects to arrays. We can…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/2020-10-06-pass-it-in-or-return-it/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/2020-10-06-pass-it-in-or-return-it/</guid><pubDate>Tue, 06 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today as I am refactoring a Vue codebase, I come across something like this:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// userListObj and countryListObj are props&lt;/span&gt;
 
 &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; userList &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;

@@ -36,7 +36,7 @@
   --fontWeight-black: 900;
   --fontSize-root: 16px;
   --lineHeight-none: 1;
-  --lineHeight-tight: 1.1;
+  --lineHeight-tight: 1.2;
   --lineHeight-normal: 1.5;
   --lineHeight-relaxed: 1.625;
   /* 1.200 Minor Third Type Scale */
@@ -224,13 +224,11 @@ table thead tr th {
 /* Link */
 
 a {
-  color: var(--color-primary);
+  text-decoration: underline;
+  color: #333;
+
 }
 
-a:hover,
-a:focus {
-  text-decoration: none;
-}
 
 /* Custom classes */
 
@@ -332,17 +330,18 @@ a:focus {
 }
 
 .gatsby-resp-image-figcaption {
-  padding-top: 0.3rem;
+  padding-top: 0.5rem;
   font-size: var(--fontSize-0);
   text-align: center;
   color: #333;
 
-  a {
-    text-decoration: underline;
-    color: #333;
-  }
+  
 }
 
 .token.operator, .token.entity, .token.url, .language-css .token.string, .style .token.string {
   background: none;
+}
+
+code[class*="language-text"]{
+  font-family: var(--font-body);
 }

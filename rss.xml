@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blue Leaf]]></title><description><![CDATA[My Personal Blog]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 08 Oct 2020 15:13:29 GMT</lastBuildDate><item><title><![CDATA[Software Engineering Learning Websites (Chinese)]]></title><description><![CDATA[Note: The following post only shares websites that are in Chinese. If you want to know those in English, feel free to drop me a message, I…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/2020-10-08-learning-websites-chinese/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/2020-10-08-learning-websites-chinese/</guid><pubDate>Thu, 08 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blue Leaf]]></title><description><![CDATA[My Personal Blog]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 29 Oct 2020 07:58:56 GMT</lastBuildDate><item><title><![CDATA[Software Engineering Learning Websites (Chinese)]]></title><description><![CDATA[Note: The following post only shares websites that are in Chinese. If you want to know those in English, feel free to drop me a message, I…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/2020-10-08-learning-websites-chinese/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/2020-10-08-learning-websites-chinese/</guid><pubDate>Thu, 08 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
     &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1920px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/69b26c46be50c9a6228a89503632cea9/0f98f/love-to-learn.jpg&quot;
+    href=&quot;/static/69b26c46be50c9a6228a89503632cea9/0f98f/love-to-learn.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -18,10 +18,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Love To Learn&quot;
         title=&quot;Photo by [Tim Mossholder](https://unsplash.com/@timmossholder) on [Unplash](https://unsplash.com/photos/WE_Kv_ZB1l0)&quot;
-        src=&quot;/blog/static/69b26c46be50c9a6228a89503632cea9/0f98f/love-to-learn.jpg&quot;
-        srcset=&quot;/blog/static/69b26c46be50c9a6228a89503632cea9/7cc5e/love-to-learn.jpg 480w,
-/blog/static/69b26c46be50c9a6228a89503632cea9/6a068/love-to-learn.jpg 960w,
-/blog/static/69b26c46be50c9a6228a89503632cea9/0f98f/love-to-learn.jpg 1920w&quot;
+        src=&quot;/static/69b26c46be50c9a6228a89503632cea9/0f98f/love-to-learn.jpg&quot;
+        srcset=&quot;/static/69b26c46be50c9a6228a89503632cea9/7cc5e/love-to-learn.jpg 480w,
+/static/69b26c46be50c9a6228a89503632cea9/6a068/love-to-learn.jpg 960w,
+/static/69b26c46be50c9a6228a89503632cea9/0f98f/love-to-learn.jpg 1920w&quot;
         sizes=&quot;(max-width: 1920px) 100vw, 1920px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -133,7 +133,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/4ed9f24175209119941995e525032a06/bab51/geekbang-1.jpg&quot;
+    href=&quot;/static/4ed9f24175209119941995e525032a06/bab51/geekbang-1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -146,10 +146,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Geekbang 1&quot;
         title=&quot;The first course is taught by ex-Googler&quot;
-        src=&quot;/blog/static/4ed9f24175209119941995e525032a06/bab51/geekbang-1.jpg&quot;
-        srcset=&quot;/blog/static/4ed9f24175209119941995e525032a06/7cc5e/geekbang-1.jpg 480w,
-/blog/static/4ed9f24175209119941995e525032a06/6a068/geekbang-1.jpg 960w,
-/blog/static/4ed9f24175209119941995e525032a06/bab51/geekbang-1.jpg 1223w&quot;
+        src=&quot;/static/4ed9f24175209119941995e525032a06/bab51/geekbang-1.jpg&quot;
+        srcset=&quot;/static/4ed9f24175209119941995e525032a06/7cc5e/geekbang-1.jpg 480w,
+/static/4ed9f24175209119941995e525032a06/6a068/geekbang-1.jpg 960w,
+/static/4ed9f24175209119941995e525032a06/bab51/geekbang-1.jpg 1223w&quot;
         sizes=&quot;(max-width: 1223px) 100vw, 1223px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -257,23 +257,23 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/7843bda2ec0ae56de7599f99a243e18f/1a4ae/geekbang-2.jpg&quot;
+    href=&quot;/static/7843bda2ec0ae56de7599f99a243e18f/1a4ae/geekbang-2.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 76.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHeVNhQ4P/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMRITH/2gAIAQEAAQUClmhKmJUensUZP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAABAiEQQRFhcf/aAAgBAQAGPwIfDSfZcovwd7xo/8QAGxAAAwADAQEAAAAAAAAAAAAAAAERMVFxIbH/2gAIAQEAAT8hGdbxiU7m5xNo/gSGvH1EUicR/9oADAMBAAIAAwAAABBQL//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAECAQE/EEf/xAAaEAEAAwEBAQAAAAAAAAAAAAABABExIUFR/9oACAEBAAE/EEb4sFIqolHfQlfHogmDnYt/IK+DmxhMMgD6l1UT/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 76.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAQACBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHt6SGav//EABkQAQACAwAAAAAAAAAAAAAAAAEQERIhMf/aAAgBAQABBQIyt4Q6j//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAAhAREgMUH/2gAIAQEABj8Cm9cEPD//xAAZEAADAQEBAAAAAAAAAAAAAAAAARExIWH/2gAIAQEAAT8hTE6wI9EmVMXwnWPFngsP/9oADAMBAAIAAwAAABBLD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQACAgMAAAAAAAAAAAAAAAEAESFBMVFh/9oACAEBAAE/EMhBcjIVvEYjUlLgBsuwomVm/ZRGypy9isPc/9k=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Geekbang 2&quot;
         title=&quot;Any 4 free lessons after login&quot;
-        src=&quot;/blog/static/7843bda2ec0ae56de7599f99a243e18f/1a4ae/geekbang-2.jpg&quot;
-        srcset=&quot;/blog/static/7843bda2ec0ae56de7599f99a243e18f/7cc5e/geekbang-2.jpg 480w,
-/blog/static/7843bda2ec0ae56de7599f99a243e18f/6a068/geekbang-2.jpg 960w,
-/blog/static/7843bda2ec0ae56de7599f99a243e18f/1a4ae/geekbang-2.jpg 1264w&quot;
+        src=&quot;/static/7843bda2ec0ae56de7599f99a243e18f/1a4ae/geekbang-2.jpg&quot;
+        srcset=&quot;/static/7843bda2ec0ae56de7599f99a243e18f/7cc5e/geekbang-2.jpg 480w,
+/static/7843bda2ec0ae56de7599f99a243e18f/6a068/geekbang-2.jpg 960w,
+/static/7843bda2ec0ae56de7599f99a243e18f/1a4ae/geekbang-2.jpg 1264w&quot;
         sizes=&quot;(max-width: 1264px) 100vw, 1264px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -386,7 +386,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/65dd6bb54cd8a7c19718e923830c1096/43bc5/imooc-1.jpg&quot;
+    href=&quot;/static/65dd6bb54cd8a7c19718e923830c1096/43bc5/imooc-1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -399,10 +399,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;IMOOC 2&quot;
         title=&quot;Big Frontend&quot;
-        src=&quot;/blog/static/65dd6bb54cd8a7c19718e923830c1096/43bc5/imooc-1.jpg&quot;
-        srcset=&quot;/blog/static/65dd6bb54cd8a7c19718e923830c1096/7cc5e/imooc-1.jpg 480w,
-/blog/static/65dd6bb54cd8a7c19718e923830c1096/6a068/imooc-1.jpg 960w,
-/blog/static/65dd6bb54cd8a7c19718e923830c1096/43bc5/imooc-1.jpg 1214w&quot;
+        src=&quot;/static/65dd6bb54cd8a7c19718e923830c1096/43bc5/imooc-1.jpg&quot;
+        srcset=&quot;/static/65dd6bb54cd8a7c19718e923830c1096/7cc5e/imooc-1.jpg 480w,
+/static/65dd6bb54cd8a7c19718e923830c1096/6a068/imooc-1.jpg 960w,
+/static/65dd6bb54cd8a7c19718e923830c1096/43bc5/imooc-1.jpg 1214w&quot;
         sizes=&quot;(max-width: 1214px) 100vw, 1214px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -516,7 +516,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/e9de65ac35727569d9733e23e399a23d/dad04/bilibili-1.jpg&quot;
+    href=&quot;/static/e9de65ac35727569d9733e23e399a23d/dad04/bilibili-1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -529,10 +529,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Bilibili 1&quot;
         title=&quot;Bilibili 1&quot;
-        src=&quot;/blog/static/e9de65ac35727569d9733e23e399a23d/dad04/bilibili-1.jpg&quot;
-        srcset=&quot;/blog/static/e9de65ac35727569d9733e23e399a23d/7cc5e/bilibili-1.jpg 480w,
-/blog/static/e9de65ac35727569d9733e23e399a23d/6a068/bilibili-1.jpg 960w,
-/blog/static/e9de65ac35727569d9733e23e399a23d/dad04/bilibili-1.jpg 1039w&quot;
+        src=&quot;/static/e9de65ac35727569d9733e23e399a23d/dad04/bilibili-1.jpg&quot;
+        srcset=&quot;/static/e9de65ac35727569d9733e23e399a23d/7cc5e/bilibili-1.jpg 480w,
+/static/e9de65ac35727569d9733e23e399a23d/6a068/bilibili-1.jpg 960w,
+/static/e9de65ac35727569d9733e23e399a23d/dad04/bilibili-1.jpg 1039w&quot;
         sizes=&quot;(max-width: 1039px) 100vw, 1039px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -639,7 +639,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/368715da3c52faafef68f4c8a2e029b6/f8402/bilibili-2.jpg&quot;
+    href=&quot;/static/368715da3c52faafef68f4c8a2e029b6/f8402/bilibili-2.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -652,10 +652,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Bilibili 2&quot;
         title=&quot;Bilibili 2&quot;
-        src=&quot;/blog/static/368715da3c52faafef68f4c8a2e029b6/f8402/bilibili-2.jpg&quot;
-        srcset=&quot;/blog/static/368715da3c52faafef68f4c8a2e029b6/7cc5e/bilibili-2.jpg 480w,
-/blog/static/368715da3c52faafef68f4c8a2e029b6/6a068/bilibili-2.jpg 960w,
-/blog/static/368715da3c52faafef68f4c8a2e029b6/f8402/bilibili-2.jpg 1066w&quot;
+        src=&quot;/static/368715da3c52faafef68f4c8a2e029b6/f8402/bilibili-2.jpg&quot;
+        srcset=&quot;/static/368715da3c52faafef68f4c8a2e029b6/7cc5e/bilibili-2.jpg 480w,
+/static/368715da3c52faafef68f4c8a2e029b6/6a068/bilibili-2.jpg 960w,
+/static/368715da3c52faafef68f4c8a2e029b6/f8402/bilibili-2.jpg 1066w&quot;
         sizes=&quot;(max-width: 1066px) 100vw, 1066px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -762,7 +762,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/32ec26a335bd2fb6cde5c152fb5d51e0/ea522/bilibili-3.jpg&quot;
+    href=&quot;/static/32ec26a335bd2fb6cde5c152fb5d51e0/ea522/bilibili-3.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -775,10 +775,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Bilibili 3&quot;
         title=&quot;Bilibili 3&quot;
-        src=&quot;/blog/static/32ec26a335bd2fb6cde5c152fb5d51e0/ea522/bilibili-3.jpg&quot;
-        srcset=&quot;/blog/static/32ec26a335bd2fb6cde5c152fb5d51e0/7cc5e/bilibili-3.jpg 480w,
-/blog/static/32ec26a335bd2fb6cde5c152fb5d51e0/6a068/bilibili-3.jpg 960w,
-/blog/static/32ec26a335bd2fb6cde5c152fb5d51e0/ea522/bilibili-3.jpg 1028w&quot;
+        src=&quot;/static/32ec26a335bd2fb6cde5c152fb5d51e0/ea522/bilibili-3.jpg&quot;
+        srcset=&quot;/static/32ec26a335bd2fb6cde5c152fb5d51e0/7cc5e/bilibili-3.jpg 480w,
+/static/32ec26a335bd2fb6cde5c152fb5d51e0/6a068/bilibili-3.jpg 960w,
+/static/32ec26a335bd2fb6cde5c152fb5d51e0/ea522/bilibili-3.jpg 1028w&quot;
         sizes=&quot;(max-width: 1028px) 100vw, 1028px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1023,7 +1023,7 @@ Object&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cla
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/f5b7b2ed3e03e23932ea6b8d4db614fe/43767/error.jpg&quot;
+    href=&quot;/static/f5b7b2ed3e03e23932ea6b8d4db614fe/43767/error.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1036,10 +1036,10 @@ Object&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cla
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;error&quot;
         title=&quot;error&quot;
-        src=&quot;/blog/static/f5b7b2ed3e03e23932ea6b8d4db614fe/43767/error.jpg&quot;
-        srcset=&quot;/blog/static/f5b7b2ed3e03e23932ea6b8d4db614fe/7cc5e/error.jpg 480w,
-/blog/static/f5b7b2ed3e03e23932ea6b8d4db614fe/6a068/error.jpg 960w,
-/blog/static/f5b7b2ed3e03e23932ea6b8d4db614fe/43767/error.jpg 1136w&quot;
+        src=&quot;/static/f5b7b2ed3e03e23932ea6b8d4db614fe/43767/error.jpg&quot;
+        srcset=&quot;/static/f5b7b2ed3e03e23932ea6b8d4db614fe/7cc5e/error.jpg 480w,
+/static/f5b7b2ed3e03e23932ea6b8d4db614fe/6a068/error.jpg 960w,
+/static/f5b7b2ed3e03e23932ea6b8d4db614fe/43767/error.jpg 1136w&quot;
         sizes=&quot;(max-width: 1136px) 100vw, 1136px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -1237,7 +1237,7 @@ Object&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cla
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/blog/static/8ec1ae3c5af1badc1e4fdde88679e6f5/0f98f/blue.jpg&quot;
+    href=&quot;/static/8ec1ae3c5af1badc1e4fdde88679e6f5/0f98f/blue.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1250,10 +1250,10 @@ Object&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cla
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Blue Leaf&quot;
         title=&quot;Photo by [Fabrizio](https://unsplash.com/@staticlaw) on [Unplash](https://unsplash.com/photos/kXVogATbFgA)&quot;
-        src=&quot;/blog/static/8ec1ae3c5af1badc1e4fdde88679e6f5/0f98f/blue.jpg&quot;
-        srcset=&quot;/blog/static/8ec1ae3c5af1badc1e4fdde88679e6f5/7cc5e/blue.jpg 480w,
-/blog/static/8ec1ae3c5af1badc1e4fdde88679e6f5/6a068/blue.jpg 960w,
-/blog/static/8ec1ae3c5af1badc1e4fdde88679e6f5/0f98f/blue.jpg 1920w&quot;
+        src=&quot;/static/8ec1ae3c5af1badc1e4fdde88679e6f5/0f98f/blue.jpg&quot;
+        srcset=&quot;/static/8ec1ae3c5af1badc1e4fdde88679e6f5/7cc5e/blue.jpg 480w,
+/static/8ec1ae3c5af1badc1e4fdde88679e6f5/6a068/blue.jpg 960w,
+/static/8ec1ae3c5af1badc1e4fdde88679e6f5/0f98f/blue.jpg 1920w&quot;
         sizes=&quot;(max-width: 1920px) 100vw, 1920px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;

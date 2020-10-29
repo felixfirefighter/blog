@@ -1,7 +1,6 @@
 const path = require('path');
 
 module.exports = {
-  pathPrefix: "/blog",
   siteMetadata: {
     title: `Blue Leaf`,
     author: {
